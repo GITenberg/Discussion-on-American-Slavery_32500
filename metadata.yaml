@@ -1,0 +1,38 @@
+_repo: Discussion-on-American-Slavery_32500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Breckinridge, Robert J. (Robert Jefferson)
+    aliases:
+    - Breckinridge, R. J. (Robert Jefferson)
+    - Breckenridge, R. J. (Robert Jefferson)
+    - Breckenridge, Robert J. (Robert Jefferson)
+    - Breckinridge, Robert Jefferson
+    birthdate: 1800
+    deathdate: 1871
+    gutenberg_agent_id: '35878'
+    url: http://www.gutenberg.org/2009/agents/35878
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Jefferson_Breckinridge
+  - agent_name: Thompson, George
+    birthdate: 1804
+    deathdate: 1878
+    gutenberg_agent_id: '39327'
+    url: http://www.gutenberg.org/2009/agents/39327
+    wikipedia: http://en.wikipedia.org/wiki/George_Thompson_%28abolitionist%29
+description: ''
+gutenberg_issued: '2010-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+title: Discussion on American Slavery
+url: http://www.gutenberg.org/ebooks/32500
