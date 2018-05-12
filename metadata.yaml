@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39327
     wikipedia: http://en.wikipedia.org/wiki/George_Thompson_%28abolitionist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32500#Discussion-on-American-Slavery
 gutenberg_issued: '2010-05-23'
 gutenberg_type: Text
 identifiers:
